@@ -5,12 +5,23 @@
 }
 
 body {
-  height: 100vh;
+  min-height: 100vh;
   background: #f1f2f6;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
   font-family: 'Segoe UI', sans-serif;
+}
+
+/* Heading styling for Internpe Assignment 1 */
+.assignment-heading {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+  margin: 40px 0 20px 0;
+  color: #222;
+  letter-spacing: 1px;
 }
 
 .calculator {
