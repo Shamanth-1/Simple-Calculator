@@ -12,14 +12,14 @@ A basic, user-friendly calculator built using HTML, CSS, and JavaScript. This pr
 ## **🚀 How to Use**
 
 1. **Clone the repository:**  
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/Shamanth-1/Simple-Calculator.git
 
 2. **Navigate to the project directory:**  
    cd simple-calculator
 
 3. Open index.html:  
    Simply open the index.html file in your preferred web browser.  
-   Alternatively, you can view the live demo [here](https://www.google.com/url?sa=E&source=gmail&q=https://your-username.github.io/simple-calculator/) (replace with your GitHub Pages URL if hosted).
+   Alternatively, you can view the live demo [here](https://www.google.com/url?sa=E&source=gmail&q=https://Shamanth-1.github.io/simple-calculator/) (replace with your GitHub Pages URL if hosted).
 
 ## **🛠️ Technologies Used**
 
